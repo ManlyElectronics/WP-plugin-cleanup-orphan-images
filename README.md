@@ -1,4 +1,4 @@
-WordPress plugin Finds and deletes orphan media files from the uploads directory that are not registered in WordPress.
+WordPress plugin Finds and deletes orphan media files from the uploads directory that are not registered in WordPress DB.
 
 This does not include Unattached media, which can be easily found and removed in the standard Media Library.
 

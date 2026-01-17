@@ -1,14 +1,4 @@
-=== Cleanup Orphan Images ===
-Contributors: dimitriaus
-Tags: cleanup, orphan, images, media, files
-Requires at least: 5.0
-Tested up to: 6.9
-Requires PHP: 7.4
-Stable tag: 1.8.0
-License: GPLv3 or later
-License URI: https://www.gnu.org/licenses/gpl-3.0.html
-
-Finds and deletes orphan media files from the uploads directory that are not registered in WordPress.
+Wwordpress plugin Finds and deletes orphan media files from the uploads directory that are not registered in WordPress.
 
 == Description ==
 

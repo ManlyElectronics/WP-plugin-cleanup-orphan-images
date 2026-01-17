@@ -1,4 +1,4 @@
-Wwordpress plugin Finds and deletes orphan media files from the uploads directory that are not registered in WordPress.
+WordPress plugin Finds and deletes orphan media files from the uploads directory that are not registered in WordPress.
 
 == Description ==
 

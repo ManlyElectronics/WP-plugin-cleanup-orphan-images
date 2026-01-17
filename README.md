@@ -1,0 +1,1 @@
+# WP-plugin-cleanup-orphan-images
